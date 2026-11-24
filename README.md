@@ -1,10 +1,12 @@
-🌐 Webflow Practices
+# 🌐 Webflow Practices
 
-A hands-on repository documenting my journey of learning, exploring, and mastering Webflow — a visual no-code platform for building responsive websites and managing dynamic content without traditional coding.
+A hands-on repository documenting my journey of learning, exploring, and mastering Webflow - a visual no-code platform for building responsive websites and managing dynamic content without traditional coding.
 
 The repository focuses on practical implementation, structured exercises, CMS management, responsive design, interactions, and real-world website development.
 
-🎯 Learning Objectives
+Latest updated on 24th November 2026
+
+## 🎯 Learning Objectives
 
 - Understand Webflow's interface, Designer, and visual development workflow.
 - Build responsive websites using visual design tools.
@@ -15,7 +17,7 @@ The repository focuses on practical implementation, structured exercises, CMS ma
 - Understand SEO, accessibility, and website optimization.
 - Build and publish practical websites using Webflow.
 
-🛠️ Platform & Technologies
+## 🛠️ Platform & Technologies
 
 Technology| Purpose
 Webflow| Visual website development
@@ -25,7 +27,7 @@ CSS3| Styling and responsive design concepts
 JavaScript| Custom functionality and interactions
 Figma| UI/UX design and prototyping
 
-📂 Repository Structure
+## 📂 Repository Structure
 
 ```
 Webflow-Practices/
@@ -63,7 +65,7 @@ Webflow-Practices/
 The repository structure will evolve as new concepts, exercises, and projects are added.
 ```
 
-📚 Learning Roadmap
+## 📚 Learning Roadmap
 
 Phase| Topics| Status
 01| Webflow Fundamentals| 🔄 In Progress
@@ -76,7 +78,7 @@ Phase| Topics| Status
 08| SEO & Optimization| ⏳ Upcoming
 09| Practical Projects| ⏳ Upcoming
 
-💡 Practice Philosophy
+## 💡 Practice Philosophy
 
 This repository follows a practical, project-oriented learning approach:
 
@@ -86,7 +88,7 @@ This repository follows a practical, project-oriented learning approach:
 - Document: Record important learnings and implementations.
 - Improve: Refine projects through experimentation and iteration.
 
-🎯 Expected Outcomes
+## 🎯 Expected Outcomes
 
 By completing these practices, I aim to:
 
@@ -96,7 +98,7 @@ By completing these practices, I aim to:
 - Create dynamic websites with reusable components.
 - Gain practical experience with real-world Webflow projects.
 
-🔗 Useful Resources
+## 🔗 Useful Resources
 
 - "Webflow Official Website" (https://webflow.com/)
 - "Webflow University" (https://university.webflow.com/)
@@ -104,7 +106,7 @@ By completing these practices, I aim to:
 - "Webflow Showcase" (https://webflow.com/made-in-webflow)
 - "Webflow Forum" (https://discourse.webflow.com/)
 
-📈 Progress Tracking
+## 📈 Progress Tracking
 
 This repository represents my continuous learning and practical exploration of Webflow and modern visual web development.
 
@@ -112,7 +114,7 @@ Every exercise, experiment, and project contributes to strengthening my understa
 
 ---
 
-Author: Shyam Vyawahare
+### Author: Shyam Vyawahare
 
 Focus: Webflow | No-Code Development | CMS | Responsive Web Design
 

@@ -15,13 +15,13 @@ The objective is to establish a strong foundation before moving into website des
 - Become familiar with website creation and publishing workflows.
 
 📂 Files & Structure
-
+```
 01-Fundamentals/
 │
 ├── README.md
 │
 └── 01-introduction-to-webflow.md
-
+```
 📚 Topics Covered
 
 No.| Topic| Description

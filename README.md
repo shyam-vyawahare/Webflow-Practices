@@ -27,6 +27,7 @@ Figma| UI/UX design and prototyping
 
 📂 Repository Structure
 
+```
 Webflow-Practices/
 │
 ├── 01-Fundamentals/
@@ -60,6 +61,7 @@ Webflow-Practices/
 └── README.md
 
 The repository structure will evolve as new concepts, exercises, and projects are added.
+```
 
 📚 Learning Roadmap
 

@@ -4,7 +4,7 @@ A hands-on repository documenting my journey of learning, exploring, and masteri
 
 The repository focuses on practical implementation, structured exercises, CMS management, responsive design, interactions, and real-world website development.
 
-Latest updated on 24th November 2026
+Latest updated on 25th November 2026
 
 ## 🎯 Learning Objectives
 
@@ -34,6 +34,7 @@ Webflow-Practices/
 │
 ├── 01-Fundamentals/
 │   ├── 01-introduction-to-webflow.md
+│   ├── 02-understanding-webflow-designer.md
 │   ├── README.md
 │   └── ...
 │
